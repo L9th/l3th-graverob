@@ -33,3 +33,7 @@ server_scripts {
 	'server/*.lua',
     'configs/sv_config.lua',
 }
+
+escrow_ignore {
+    '*/*'
+}
