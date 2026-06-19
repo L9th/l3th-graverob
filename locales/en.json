@@ -1,0 +1,27 @@
+{
+  "dispatch": {
+    "title": "Suspicious activity",
+    "code": "112",
+    "priority": "Priority 3",
+    "message": "Suspicious activity reported, possible robbery in progress."
+  },
+
+  "job": {
+    "target_label": "Digging up the grave",
+    "progress_label": "Robbing the grave...",
+    "cancelled": "Grave mission cancelled!",
+    "accepted": "You have accepted the mission! Check your GPS! You have %d minutes!",
+    "failed": "You failed to dig up the grave.",
+    "completed_rare": "You successfully robbed the grave and found a rare item!",
+    "completed": "You successfully robbed the grave!",
+    "nothing_found": "You robbed the grave, but found nothing of value."
+  },
+  
+  "error": {
+    "already_active": "You already have an active task."
+  },
+
+  "other": {
+    "npc_start_label": "Start grave robbery mission"
+  }
+}

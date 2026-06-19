@@ -1,0 +1,27 @@
+{
+  "dispatch": {
+    "title": "Mistænkelig aktivitet",
+    "code": "112",
+    "priority": "Prioritet 3",
+    "message": "Mistænkelig aktivitet rapporteret, muligt røveri i gang."
+  },
+
+  "job": {
+    "target_label": "Graver gravsted op",
+    "progress_label": "Røver gravstedet...",
+    "cancelled": "Gravsted Mission afbrudt!",
+    "accepted": "Du har accepteret missionen! Tjek din GPS! Du har %d minutter!",
+    "failed": "Du mislykkedes med at grave gravstedet op.",
+    "completed_rare": "Du har med succes røvet gravstedet og fundet en sjælden genstand!",
+    "completed": "Du har med succes røvet gravstedet!",
+    "nothing_found": "Du har røvet gravstedet, men fandt intet af værdi."
+  },
+  
+  "error": {
+    "already_active": "Du har allerede en aktiv opgave."
+  },
+
+  "other": {
+    "npc_start_label": "Start gravrøveri mission"
+  }
+}
